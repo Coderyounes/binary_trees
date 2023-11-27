@@ -1,0 +1,5 @@
+# Ignore specific files
+binary_tree_print.c
+
+# Ignore files ending with -main.c
+*-main.c
